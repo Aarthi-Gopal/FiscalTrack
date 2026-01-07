@@ -1,27 +1,15 @@
-# Angular-Dashboard
+# FiscalTrack: Fund Performance & Cost Analyzer
+**FiscalTrack** is an advanced analytical dashboard built with **Angular 11** designed to evaluate the intersection of fund costs and performance. It empowers investors and financial analysts to move beyond basic tracking and enter the realm of data-driven decision-making.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
+## The Concept
+In the world of finance, high returns are often eroded by hidden costs. **FiscalTrack** provides a specialized environment to:
+1.  **Analyze Fund Costs:** Deconstruct expense ratios, management fees, and transaction costs.
+2.  **Evaluate Performance:** Compare historical returns against benchmarks and peer groups.
+3.  **Optimize Decision-Making:** Use high-fidelity visualizations to identify "efficient" funds—those providing the best performance per unit of cost.
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Key Features
+* **Cost-Benefit Visualization:** Dual-axis charts that overlay performance metrics against cost structures.
+* **Alpha Identification:** Tools to visualize risk-adjusted returns and identify top-performing assets.
+* **Efficiency Metrics:** Automated calculation of Net Return vs. Gross Expense ratios.
+* **Comparative Analytics:** Side-by-side fund comparison to streamline the selection process.
+* **Dynamic Filtering:** Slice data by sector, asset class, or risk profile for surgical analysis.
